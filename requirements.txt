@@ -1,0 +1,3 @@
+requests>=2.31
+phonenumbers>=8.13
+pyfiglet>=1.0
