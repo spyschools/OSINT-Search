@@ -1,0 +1,10 @@
+validate_email
+opencnam
+git+https://github.com/abenassi/Google-Search-API
+pyfiglet
+validators
+shodan
+phonenumbers
+fullcontact.py
+censys
+requests
